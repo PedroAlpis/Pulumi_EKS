@@ -1,4 +1,4 @@
-name: EKS_PULUMI
+name: Pulumi_EKS
 runtime:
   name: python
   options:
